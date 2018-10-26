@@ -111,6 +111,7 @@
 	NSMutableArray *tables;
 	NSMutableArray *filteredTables;
 	NSMutableArray *tableTypes;
+	NSMutableDictionary *tableComments;
 	NSMutableArray *filteredTableTypes;
 	SPTableType selectedTableType;
 	NSString *selectedTableName;
