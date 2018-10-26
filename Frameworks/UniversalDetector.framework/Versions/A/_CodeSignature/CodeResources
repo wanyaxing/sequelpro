@@ -4,55 +4,55 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/English.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BezcedRpfqwpgIuqFC448GH6W4Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		VZb3f8My4te/5JwcjfvotgCXTAs=
+		VXUXMNBHKgrmoReGvbav4tkuWXg=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/Growl.h</key>
+		<key>Headers/UniversalDetector.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j9Ob2u9aIsHa7g0mIrcn/eowg/U=
+			VzLMfLoTOYyBu9++9YVKrZ4X+nQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			jqe3SUtaoUqHpF2NFvrab8xw8xUjwTCtmVc+nDCE8HM=
+			UGBfnTivRyhiKacl2ZYmWArNSPVY6Z20VZGmeCP9tjI=
 			</data>
 		</dict>
-		<key>Headers/GrowlApplicationBridge.h</key>
+		<key>Resources/English.lproj/InfoPlist.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EnGmx27UHXu/cw04qVrVgF74lt8=
+			BezcedRpfqwpgIuqFC448GH6W4Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			qFqosCIMJfp1AgwJig0zFzxPACK5XlZmlQlD/zyRqAg=
+			nH9diJQynkVohb3MxfRxAChhrrZ5p4YqB2E/eJh+X3o=
 			</data>
-		</dict>
-		<key>Headers/GrowlDefines.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lEpJMIumoTSF3icoXL/GM/1lEzE=
-			</data>
-			<key>hash2</key>
-			<data>
-			/E21AqunB5/CaYp0elsOBUP61BzXUAkLveGB9LC6Jfo=
-			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VZb3f8My4te/5JwcjfvotgCXTAs=
+			VXUXMNBHKgrmoReGvbav4tkuWXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			odJVaVE9C8qEG+SuMscrQokH/dHROmtGcocWsrGpIZw=
+			lJ+7P2kO68/jHqzXarqBpk/ATmcmUG1kyh04nMwBe7o=
 			</data>
 		</dict>
 	</dict>

@@ -6,54 +6,142 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		VZb3f8My4te/5JwcjfvotgCXTAs=
+		79ra5XyqeZu3ftouMIJcqJ5cbOM=
 		</data>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/Growl.h</key>
+		<key>Headers/NSNotificationCenter+OCMAdditions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j9Ob2u9aIsHa7g0mIrcn/eowg/U=
+			pPccEmbWkizWLL25z76PRe5AD04=
 			</data>
 			<key>hash2</key>
 			<data>
-			jqe3SUtaoUqHpF2NFvrab8xw8xUjwTCtmVc+nDCE8HM=
+			boRNFZ5MAYmjfhoY+fWBWMCXwRcrcGdhK0lCPs9QllE=
 			</data>
 		</dict>
-		<key>Headers/GrowlApplicationBridge.h</key>
+		<key>Headers/OCMArg.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EnGmx27UHXu/cw04qVrVgF74lt8=
+			FWPcEUc6ledBjZY771JISH64aSk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qFqosCIMJfp1AgwJig0zFzxPACK5XlZmlQlD/zyRqAg=
+			lkwFe1hd92UqpcIXPz9gaPVmnINz6fR+YTDIZwWlXxY=
 			</data>
 		</dict>
-		<key>Headers/GrowlDefines.h</key>
+		<key>Headers/OCMConstraint.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lEpJMIumoTSF3icoXL/GM/1lEzE=
+			7AWz9PbJTAt/lnIMyjAfXVfuuAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/E21AqunB5/CaYp0elsOBUP61BzXUAkLveGB9LC6Jfo=
+			JVHeeghHXXGhi7mGp2G58AJPIVqeA+/XVyhze4ApQ2U=
+			</data>
+		</dict>
+		<key>Headers/OCMLocation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uiZRATRraVN1MeC+Mw/uLa1o7rI=
+			</data>
+			<key>hash2</key>
+			<data>
+			HahddiMc4YwTDsTPA5kO0R2e5GE5Z2eg/U+fDDpj67o=
+			</data>
+		</dict>
+		<key>Headers/OCMMacroState.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ENuaPVQ2mXBDbAemZ9vTYDuBEAA=
+			</data>
+			<key>hash2</key>
+			<data>
+			8gNpltZRksMeg/rGZ7ayKmI/V7ABYXk32aPZpXWv8Y0=
+			</data>
+		</dict>
+		<key>Headers/OCMRecorder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SrbBTinKrZMGRuG9DdkF6tpT6vU=
+			</data>
+			<key>hash2</key>
+			<data>
+			+ht6c1LAX90PkUMggkwx6ymJwnWLzcNBO3kRunq/fEk=
+			</data>
+		</dict>
+		<key>Headers/OCMStubRecorder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mbww8BSVaE8xiLk4uoN6pflgP28=
+			</data>
+			<key>hash2</key>
+			<data>
+			QqgYSNxIDNqFmHT9QJ8+hmu9m9mvD8xf6WHdesujuhE=
+			</data>
+		</dict>
+		<key>Headers/OCMock.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gFH/p/QwIykmreabaeQw5e/+Fmc=
+			</data>
+			<key>hash2</key>
+			<data>
+			UE+s4RuylD3+y1NljPYN0utgN1W0K5arJlx14vtWcm4=
+			</data>
+		</dict>
+		<key>Headers/OCMockObject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RfG6cCa9yGHiOID7k6xua+/ldeA=
+			</data>
+			<key>hash2</key>
+			<data>
+			r2Kq9P6zjbWurBkBDT0Zrie6GjlntxowZASaHcK5Wqo=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VZb3f8My4te/5JwcjfvotgCXTAs=
+			79ra5XyqeZu3ftouMIJcqJ5cbOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			odJVaVE9C8qEG+SuMscrQokH/dHROmtGcocWsrGpIZw=
+			WLJggXhXfcT6LeSQOorN91Exoyq86DLrHx3m68TTSk4=
 			</data>
+		</dict>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oc8u4Ht7Mz58F50L9NeYpbcq9qTlhPUeZCcDu/pPyCg=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
